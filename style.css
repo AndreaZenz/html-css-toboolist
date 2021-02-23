@@ -33,7 +33,7 @@ body{
 }
 
 .background{
-    height: 800px;
+    height: 500px;
     width: 800px;
     margin: auto;
     background-color: white;
@@ -80,7 +80,7 @@ ul{
 .task{
     padding-left: 10px;
     font-weight:bolder ;
-    padding-bottom: 5px;
+    padding-bottom:10px;
     
 }
 
@@ -92,45 +92,60 @@ ul{
     background-color: rgb(69,171,234);
     display: inline;
     font-size: 10px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     color: white;
+    font-weight: normal;
 }
 
 .q1goals{
     background-color: rgb(156,114,228);
     display: inline;
     font-size: 10px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     color: white;
+    font-weight: normal;
 }
 
 .recruiting{
     background-color: rgb(100,192,169);
     display: inline;
     font-size: 10px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     color: white;
+    font-weight: normal;
 }
 
 .mobile{
     background-color: rgb(242,158,52);
     display: inline;
     font-size: 10px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     color: white;
+    font-weight: normal;
 }
 
 .website{
-    background-color: rgb(242,158,52);
+    background-color: rgb(216,99,161);
     display: inline;
     font-size: 10px;
-    padding: 5px;
+    padding: 5px 10px 5px 10px;
     border-radius: 15px;
     color: white;
+    font-weight: normal;
+}
+
+.sales{
+    background-color: rgb(176,201,38);
+    display: inline;
+    font-size: 10px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 15px;
+    color: white;
+    font-weight: normal;
 }
     
 
