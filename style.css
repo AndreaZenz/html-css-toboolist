@@ -39,8 +39,8 @@ body{
     background-color: white;
     border-radius: 5px;
     padding: 20px;
-    vertical-align: auto;
 }
+    
 
 .button1{
     background-color:rgb(69,171,234);
@@ -66,15 +66,15 @@ body{
 ul{
     list-style-type: none;
     padding-left: 25px;
-    
 }
+    
 
 .newtask{
     font-weight: bold;
     font-size:x-large ;
-    font-weight: 1000;
-    
 }
+    
+    
 
     
 .task{
