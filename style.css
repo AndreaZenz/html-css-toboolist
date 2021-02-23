@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: white;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(202, 202, 202);
+   
+}
+
+.toobolist{
+    display: inline;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+  
+
+  
+
+
+
+
+    
