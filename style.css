@@ -2,6 +2,7 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    font-family: 'Roboto', sans-serif;
 }
 
 header{
@@ -10,17 +11,133 @@ header{
 }
 
 body{
-    background-color: rgb(202, 202, 202);
+    background-color:rgb(246,248,249);
    
 }
 
 .toobolist{
     display: inline;
     font-size: 60px;
-    font-family: 'Roboto', sans-serif;
 }
-  
+    
 
+.whitebox{
+    background-color: white;
+    padding: 15px;
+    padding-left: 40px ;
+    width: 800px;
+    margin: auto;
+    border-radius: 5px;
+    margin-top: 40px;
+    margin-bottom: 3px;
+}
+
+.background{
+    height: 800px;
+    width: 800px;
+    margin: auto;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    vertical-align: auto;
+}
+
+.button1{
+    background-color:rgb(69,171,234);
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color: white;
+    border-color:rgb(69,171,234) ;
+    margin-left: 20px ;    
+}
+    
+.button2{
+    background-color: white;
+    padding: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 5px;
+    color:gray;
+    border-color: grey;
+}
+
+ul{
+    list-style-type: none;
+    padding-left: 25px;
+    
+}
+
+.newtask{
+    font-weight: bold;
+    font-size:x-large ;
+    font-weight: 1000;
+    
+}
+
+    
+.task{
+    padding-left: 10px;
+    font-weight:bolder ;
+    padding-bottom: 5px;
+    
+}
+
+.last{
+    padding-bottom: 40px;
+}
+
+.editorial{
+    background-color: rgb(69,171,234);
+    display: inline;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+
+.q1goals{
+    background-color: rgb(156,114,228);
+    display: inline;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+
+.recruiting{
+    background-color: rgb(100,192,169);
+    display: inline;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+
+.mobile{
+    background-color: rgb(242,158,52);
+    display: inline;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+
+.website{
+    background-color: rgb(242,158,52);
+    display: inline;
+    font-size: 10px;
+    padding: 5px;
+    border-radius: 15px;
+    color: white;
+}
+    
+
+
+
+
+  
   
 
 
